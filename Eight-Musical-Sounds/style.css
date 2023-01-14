@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  margin-top: 10%;
+  justify-content: center;
+}
+h1 {
+  margin-top: 10%;
+  text-align: center;
+  font-style: italic;
+}
+div {
+  margin: auto;
+}
+input {
+  height: 75px;
+  width: 75px;
+  background-color: rgb(255, 178, 178);
+  color: rgb(26, 22, 22);
+  border-radius: 35px;
+}
+body {
+  background-image: url(background.jpg);
+  margin: auto;
+  padding: auto;
+}
